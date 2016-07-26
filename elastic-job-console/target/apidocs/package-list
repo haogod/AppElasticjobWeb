@@ -1,0 +1,10 @@
+com.dangdang.ddframe.job.console.controller
+com.dangdang.ddframe.job.console.domain
+com.dangdang.ddframe.job.console.exception
+com.dangdang.ddframe.job.console.interceptor
+com.dangdang.ddframe.job.console.repository
+com.dangdang.ddframe.job.console.repository.impl
+com.dangdang.ddframe.job.console.security
+com.dangdang.ddframe.job.console.service
+com.dangdang.ddframe.job.console.service.impl
+com.dangdang.ddframe.job.console.util

@@ -1,0 +1,12 @@
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/AllTests.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/domain/ExecutionStatusTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/api/JobAPIFactoryTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/domain/ServerBriefStatusTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/internal/operate/JobOperateAPIImplTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/internal/reg/RegistryCenterFactoryTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/AbstractNestedZookeeperBaseTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/domain/ServerStatusTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/internal/statistics/JobStatisticsAPIImplTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/internal/statistics/ServerStatisticsAPIImplTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/domain/JobStatusTest.java
+/Users/zhanghao/Documents/pro/elastic-job/elastic-job-api/elastic-job-api-core/src/test/java/com/dangdang/ddframe/job/internal/settings/JobSettingsAPIImplTest.java

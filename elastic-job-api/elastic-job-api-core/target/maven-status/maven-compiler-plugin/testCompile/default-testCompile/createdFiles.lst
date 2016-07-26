@@ -1,0 +1,12 @@
+com/dangdang/ddframe/job/domain/ExecutionStatusTest.class
+com/dangdang/ddframe/job/internal/reg/RegistryCenterFactoryTest.class
+com/dangdang/ddframe/job/internal/statistics/JobStatisticsAPIImplTest.class
+com/dangdang/ddframe/job/AbstractNestedZookeeperBaseTest.class
+com/dangdang/ddframe/job/domain/JobStatusTest.class
+com/dangdang/ddframe/job/internal/statistics/ServerStatisticsAPIImplTest.class
+com/dangdang/ddframe/job/AllTests.class
+com/dangdang/ddframe/job/internal/settings/JobSettingsAPIImplTest.class
+com/dangdang/ddframe/job/api/JobAPIFactoryTest.class
+com/dangdang/ddframe/job/internal/operate/JobOperateAPIImplTest.class
+com/dangdang/ddframe/job/domain/ServerBriefStatusTest.class
+com/dangdang/ddframe/job/domain/ServerStatusTest.class
